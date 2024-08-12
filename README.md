@@ -2,7 +2,7 @@
 # AMA - ASK ME ANYTHING
 
 ## Introdução
-Este projeto cria uma sala de perguntas utilizando Go e React. A ideia é permitir que os usuários façam perguntas e interajam em tempo real em uma sessão de "Ask Me Anything".
+Este projeto cria uma sala de perguntas utilizando Go Lang e React. A ideia é permitir que os usuários façam perguntas e interajam em tempo real em uma sessão de "Ask Me Anything".
 
 ## Índice
 - [Instalação](#instalação)
