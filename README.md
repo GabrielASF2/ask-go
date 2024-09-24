@@ -47,4 +47,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar 
 Este projeto está licenciado sob a licença MIT.
 ```
 
-Esse README cobre as seções essenciais e é adaptado para um projeto simples como "ask-go". Caso precise de informações adicionais, estou à disposição para ajudar!
+Esse README cobre as seções essenciais e é adaptado para um projeto simples como "ask-go". Caso precise de informações adicionais, estou à disposição para ajudar.
